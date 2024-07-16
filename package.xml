@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>hippo_common_msgs</name>
+  <version>0.0.0</version>
+  <description>Aggregation of our common msg packages</description>
+  <maintainer email="thies.lennart.alff@tuhh.de">Thies Lennart Alff</maintainer>
+  <license>GPLv2</license>
+  <!-- packages in my_project -->
+  <exec_depend>acoustic_msgs</exec_depend>
+  <exec_depend>alpha_arm_msgs</exec_depend>
+  <exec_depend>buttons_msgs</exec_depend>
+  <exec_depend>dvl_msgs</exec_depend>
+  <exec_depend>gantry_msgs</exec_depend>
+  <exec_depend>hippo_control_msgs</exec_depend>
+  <exec_depend>hippo_msgs</exec_depend>
+  <exec_depend>rapid_trajectories_msgs</exec_depend>
+  <exec_depend>state_estimation_msgs</exec_depend>
+  <exec_depend>uvms_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
