@@ -8,7 +8,7 @@
   <license>GPLv2</license>
   <!-- packages in my_project -->
   <exec_depend>acoustic_msgs</exec_depend>
-  <exec_depend>alpha_arm_msgs</exec_depend>
+  <exec_depend>alpha_msgs</exec_depend>
   <exec_depend>buttons_msgs</exec_depend>
   <exec_depend>dvl_msgs</exec_depend>
   <exec_depend>gantry_msgs</exec_depend>
