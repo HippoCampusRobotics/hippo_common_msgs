@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>hippo_common_msgs</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>Aggregation of our common msg packages</description>
   <maintainer email="thies.lennart.alff@tuhh.de">Thies Lennart Alff</maintainer>
   <license>GPLv2</license>
