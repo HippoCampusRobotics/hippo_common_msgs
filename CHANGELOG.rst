@@ -2,8 +2,8 @@
 Changelog for package hippo_common_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2024-07-16)
+------------------
 * fixed wrong package name
 * Contributors: Thies Lennart Alff
 
